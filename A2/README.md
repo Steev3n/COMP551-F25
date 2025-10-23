@@ -1,4 +1,4 @@
-# Assignment 1 README
+# Assignment 2 README
 
 This assignment involved further exploration with linear regression, this time with non-linear bases and non-linear datasets. We explore the concept of under/overfitting through fitting models with various numbers of Gaussian bases and seeing the effect that it has on the validation/test errors. We also explore the effects of regularization (L1, L2) on the loss surface and the weights.
 
